@@ -1,1 +1,9 @@
-# Lab 0 - 
+# Lab 0
+
+## Challenge description
+A list of 10 different hashes is provided that are the result of applying a hashing algorithm to a list of 10 passwords. Within these passwords, one of them is known to be "Lab00". The objective is to discover the value of the remaining nine passwords; the hash of each password is provided in the "passwords.txt" file.
+
+## Challenge file hash
+
+passwords.txt:
+* MD5 hash: 4f1514127586bdc3d4f8981869be2d68
